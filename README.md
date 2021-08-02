@@ -4,8 +4,8 @@ For farmers who need agricultural support, Sprout is a forum that enables farmer
 The team intends to address the problem by designing and creating a system that tracks and provides information on crop animal health issues. It will be a web-based application that offers the farmers a platform to exchange crop and animal health information. The forum can be used by farmers to discuss changes in crop and animal behavior, health issues and solutions to these issues. The software will have a platform on which farmers can post questions, answer and contribute to existing questions, and discuss other issues that may affect the crops as well as the animals. The system will have a knowledge base in which different information regarding agricultural issues can be populated. The information in the knowledge base can be analyzed to detect infection outbreaks in specific areas and advise the farmers to take the necessary actions. This information can also help the agricultural sector to provide the needed vaccines or treatment in the hot-spots. 
 
 
-**Long Time Goal
-**
+**Long Time Goal**
+
 The project aims to enable farmers to access timely information to improve their farming practices and holistically serve the people in the agricultural sector.
 
 **Justification Of The Solution**
